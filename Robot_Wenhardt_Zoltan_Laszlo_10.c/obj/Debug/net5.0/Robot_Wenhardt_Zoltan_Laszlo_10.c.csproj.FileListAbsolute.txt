@@ -1,0 +1,16 @@
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\bin\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.exe
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\bin\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.deps.json
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\bin\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.runtimeconfig.json
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\bin\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.runtimeconfig.dev.json
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\bin\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.dll
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\bin\Debug\net5.0\ref\Robot_Wenhardt_Zoltan_Laszlo_10.c.dll
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\bin\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.pdb
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.csproj.AssemblyReference.cache
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.AssemblyInfoInputs.cache
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.AssemblyInfo.cs
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.csproj.CoreCompileInputs.cache
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.dll
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\ref\Robot_Wenhardt_Zoltan_Laszlo_10.c.dll
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.pdb
+C:\Users\cz175\source\repos\Robot_Wenhardt_Zoltan_Laszlo_10.c\obj\Debug\net5.0\Robot_Wenhardt_Zoltan_Laszlo_10.c.genruntimeconfig.cache

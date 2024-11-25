@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Robot_Wenhardt_Zoltan_Laszlo_10.c/1.0.0": {
+        "runtime": {
+          "Robot_Wenhardt_Zoltan_Laszlo_10.c.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Robot_Wenhardt_Zoltan_Laszlo_10.c/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
